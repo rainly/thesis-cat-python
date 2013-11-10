@@ -1,0 +1,7 @@
+src/data
+src/learning/*.pyc
+src/regression/*.pyc
+src/testing/*.csv
+src/tools/*.pyc
+/.project
+/.pydevproject
